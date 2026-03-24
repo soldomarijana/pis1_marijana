@@ -11,6 +11,7 @@ namespace pis1_marijana
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Novo");
         }
     }
 }
